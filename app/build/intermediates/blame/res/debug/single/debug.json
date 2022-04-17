@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_clean.png.flat",
+        "source": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\src\\main\\res\\drawable-v24\\clean.png"
+    },
+    {
+        "merged": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eraser.png.flat",
+        "source": "E:\\JIO Projects\\DigitRecognition\\DigitRecognition\\app\\src\\main\\res\\drawable-v24\\eraser.png"
+    }
+]
